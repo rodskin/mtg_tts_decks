@@ -10,4 +10,4 @@ copier les decks dedans
 
 
 Linux:
-.local\share\
+cd ~/.local/share/Tabletop\ Simulator/Saves/Saved\ Objects
